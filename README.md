@@ -1,4 +1,4 @@
-# LGMVIP-WebDev Task1
+# Front_End Design
 
 #web project developed using HTML and CSS
 
